@@ -104,14 +104,33 @@ Práctica constante con tecnologías base para desarrollo de software:
 
 ----
 
-## 🤝 Conecta conmigo
+## 🌐 Conecta conmigo
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-jhernandez30--cpu-181717?style=for-the-badge&logo=github)](https://github.com/jhernandez30-cpu)
-[![Instagram](https://img.shields.io/badge/Instagram-abrham._herndez-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abrham._herndez)
-[![Website](https://img.shields.io/badge/Website-AbrahamDev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/AbrahamDev)
-[![ITSA Security](https://img.shields.io/badge/ITSA-Security-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://bit.ly/ITSASECURITY)
+<a href="https://github.com/jhernandez30-cpu">
+  <img src="https://img.shields.io/badge/GitHub-jhernandez30--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://jhernandez30-cpu.github.io/ABRAHAM-HERNANDEZ/">
+  <img src="https://img.shields.io/badge/Sitio%20Web-Abraham%20Hernandez-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web" />
+</a>
+
+<a href="https://jhernandez30-cpu.github.io/ITSA-Segurity/">
+  <img src="https://img.shields.io/badge/Empresa-ITSA%20Segurity-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ITSA Segurity" />
+</a>
+
+<a href="https://www.instagram.com/abrhamdev?igsh=MTVvdzk1bWk4bTVkNA==">
+  <img src="https://img.shields.io/badge/Instagram-abrhamdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.instagram.com/it_segurity?igsh=MWsydThncWcxODh4MA==">
+  <img src="https://img.shields.io/badge/Instagram%20Empresa-it__segurity-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Empresa" />
+</a>
+
+<a href="https://www.facebook.com/share/178tB1SBk1/">
+  <img src="https://img.shields.io/badge/Facebook%20Empresa-ITSA%20Segurity-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Empresa" />
+</a>
 
 </div>
 
