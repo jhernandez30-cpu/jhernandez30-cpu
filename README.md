@@ -4,7 +4,7 @@
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 
-<img src="https://img.shields.io/badge/Microsoft%20Partner%20Center-Individual%20Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Partner Center Individual Developer" />
+<img src="https://img.shields.io/badge/Microsoft%20Store-Publisher-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white" alt="Microsoft Store Publisher" />
 
 # Hola, soy Josue Hernandez
 
