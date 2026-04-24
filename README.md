@@ -6,7 +6,6 @@
 
 <img src="https://img.shields.io/badge/Microsoft%20Store-Publisher-0078D4?style=for-the-badge&logo=microsoftstore&logoColor=white" alt="Microsoft Store Publisher" />
 
-# Hola, soy Josue Hernandez
 
 
 ### Desarrollador en formación | Web Developer | Automatización | Seguridad informática
@@ -61,7 +60,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Josue Hernandez**, apasionado por la programación, la tecnología y la creación de soluciones digitales. Actualmente estoy fortaleciendo mis habilidades en **desarrollo web**, **Python**, **automatización**, **bases de datos** y **seguridad informática**.
+Hola, Soy **Josue Hernandez**, apasionado por la programación, la tecnología y la creación de soluciones digitales. Actualmente estoy fortaleciendo mis habilidades en **desarrollo web**, **Python**, **automatización**, **bases de datos** y **seguridad informática**.
 
 Me gusta aprender construyendo: desde páginas web empresariales hasta proyectos de práctica con Git, GitHub, Python, SQL, C# y flujos de automatización.
 
