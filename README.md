@@ -124,6 +124,8 @@ Práctica constante con tecnologías base para desarrollo de software:
 
 -----
 
-⭐ Gracias por visitar mi perfil
+### ⭐ Gracias por visitar mi perfil
+
+![Profile Views](https://komarev.com/ghpvc/?username=jhernandez30-cpu&style=for-the-badge&color=blueviolet)
 
 </div>
