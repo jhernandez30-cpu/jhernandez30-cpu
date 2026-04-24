@@ -4,9 +4,9 @@
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Josue%20Hernandez-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft - Josue Hernandez" />
-</p>
+<img src="https://img.shields.io/badge/Microsoft%20Partner%20Center-Individual%20Developer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Partner Center Individual Developer" />
+
+# Hola, soy Josue Hernandez
 
 
 ### Desarrollador en formación | Web Developer | Automatización | Seguridad informática
