@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# 👋 Hola, soy Josue Hernandez
-
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+
+# 👋 Hola, soy Josue Hernandez
 
 ### Desarrollador en formación | Web Developer | Automatización | Seguridad informática
 
@@ -18,6 +18,8 @@
 </div>
 
 ---
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 ## 👨‍💻 Sobre mí
 
