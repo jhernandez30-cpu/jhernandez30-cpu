@@ -4,7 +4,11 @@
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 
-# <a href="TU_LINK_DE_MICROSOFT_LEARN"> Hola, soy Josue Hernandez
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-Josue%20Hernandez-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft - Josue Hernandez" />
+</p>
+
+# Hola, soy Josue Hernandez
 
 ### Desarrollador en formación | Web Developer | Automatización | Seguridad informática
 
