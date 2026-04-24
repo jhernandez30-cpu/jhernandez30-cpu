@@ -4,9 +4,10 @@
 
 # 👋 Hola, soy Josue Hernandez
 
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+
 ### Desarrollador en formación | Web Developer | Automatización | Seguridad informática
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Aprendiendo+y+construyendo+proyectos;Ciberseguridad+%7C+Web+%7C+Automatización;Desde+Managua%2C+Nicaragua+%F0%9F%87%B3%F0%9F%87%AE" alt="Typing SVG" /> </div>
 
 📍 Managua, Nicaragua  
 🚀 Construyendo proyectos web, aprendiendo nuevas tecnologías y creando soluciones digitales para empresas.
@@ -101,8 +102,7 @@ Práctica constante con tecnologías base para desarrollo de software:
 - Fortalecer mi perfil profesional como desarrollador.
 - Desarrollar soluciones digitales para empresas y emprendimientos.
 
-🔥 Racha de contribuciones
-<div align="center"> <img src="https://streak-stats.demolab.com?user=jhernandez30-cpu&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
+----
 
 ## 🤝 Conecta conmigo
 
@@ -122,7 +122,8 @@ Práctica constante con tecnologías base para desarrollo de software:
 
 <div align="center">
 
+-----
+
 ⭐ Gracias por visitar mi perfil
-Profile Views
 
 </div>
