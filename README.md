@@ -4,7 +4,7 @@
 
 ![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 
-# 👋 Hola, soy Josue Hernandez
+# <a href="TU_LINK_DE_MICROSOFT_LEARN"> Hola, soy Josue Hernandez
 
 ### Desarrollador en formación | Web Developer | Automatización | Seguridad informática
 
