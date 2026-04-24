@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Microsoft-Josue%20Hernandez-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft - Josue Hernandez" />
 </p>
 
-# Hola, soy Josue Hernandez
 
 ### Desarrollador en formación | Web Developer | Automatización | Seguridad informática
 
