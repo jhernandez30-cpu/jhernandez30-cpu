@@ -24,6 +24,41 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
+-----
+
+## 🌐 Conecta conmigo
+
+<div align="center">
+
+<a href="https://github.com/jhernandez30-cpu">
+  <img src="https://img.shields.io/badge/GitHub-jhernandez30--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://jhernandez30-cpu.github.io/ABRAHAM-HERNANDEZ/">
+  <img src="https://img.shields.io/badge/Sitio%20Web-Abraham%20Hernandez-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web" />
+</a>
+
+<a href="https://jhernandez30-cpu.github.io/ITSA-Segurity/">
+  <img src="https://img.shields.io/badge/Empresa-ITSA%20Segurity-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ITSA Segurity" />
+</a>
+
+<a href="https://www.instagram.com/abrhamdev?igsh=MTVvdzk1bWk4bTVkNA==">
+  <img src="https://img.shields.io/badge/Instagram-abrhamdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://www.instagram.com/it_segurity?igsh=MWsydThncWcxODh4MA==">
+  <img src="https://img.shields.io/badge/Instagram%20Empresa-it__segurity-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Empresa" />
+</a>
+
+<a href="https://www.facebook.com/share/178tB1SBk1/">
+  <img src="https://img.shields.io/badge/Facebook%20Empresa-ITSA%20Segurity-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Empresa" />
+</a>
+
+</div>
+
+---
+
+
 ## 👨‍💻 Sobre mí
 
 Soy **Josue Hernandez**, apasionado por la programación, la tecnología y la creación de soluciones digitales. Actualmente estoy fortaleciendo mis habilidades en **desarrollo web**, **Python**, **automatización**, **bases de datos** y **seguridad informática**.
@@ -108,38 +143,6 @@ Práctica constante con tecnologías base para desarrollo de software:
 - Desarrollar soluciones digitales para empresas y emprendimientos.
 
 ----
-
-## 🌐 Conecta conmigo
-
-<div align="center">
-
-<a href="https://github.com/jhernandez30-cpu">
-  <img src="https://img.shields.io/badge/GitHub-jhernandez30--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://jhernandez30-cpu.github.io/ABRAHAM-HERNANDEZ/">
-  <img src="https://img.shields.io/badge/Sitio%20Web-Abraham%20Hernandez-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio Web" />
-</a>
-
-<a href="https://jhernandez30-cpu.github.io/ITSA-Segurity/">
-  <img src="https://img.shields.io/badge/Empresa-ITSA%20Segurity-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ITSA Segurity" />
-</a>
-
-<a href="https://www.instagram.com/abrhamdev?igsh=MTVvdzk1bWk4bTVkNA==">
-  <img src="https://img.shields.io/badge/Instagram-abrhamdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="https://www.instagram.com/it_segurity?igsh=MWsydThncWcxODh4MA==">
-  <img src="https://img.shields.io/badge/Instagram%20Empresa-it__segurity-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Empresa" />
-</a>
-
-<a href="https://www.facebook.com/share/178tB1SBk1/">
-  <img src="https://img.shields.io/badge/Facebook%20Empresa-ITSA%20Segurity-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Empresa" />
-</a>
-
-</div>
-
----
 
 💡 Frase que me representa
 “La mejor forma de aprender tecnología es construir, romper, investigar y volver a intentarlo.”
